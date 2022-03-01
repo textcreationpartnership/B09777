@@ -1,0 +1,364 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Joy after sorrow], being the sea-mans return from Jamaica:, or, The lovely lasses late lamentation for the long absence of her dearest beloved friend a voyage to Jamaica he pretends: but at his comming home makes her amends.  To an excellent new tune, called, My love is gone to Bohemy, or, Wet and weary.</title>
+            <author>L. P. (Laurence Price), fl. 1625-1680?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09777</idno>
+            <idno type="STC">Wing P3369</idno>
+            <idno type="STC">ESTC R234925</idno>
+            <idno type="EEBO-CITATION">64551587</idno>
+            <idno type="OCLC">ocm 64551587</idno>
+            <idno type="VID">184716</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09777)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184716)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2870:59)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>[Joy after sorrow], being the sea-mans return from Jamaica:, or, The lovely lasses late lamentation for the long absence of her dearest beloved friend a voyage to Jamaica he pretends: but at his comming home makes her amends.  To an excellent new tune, called, My love is gone to Bohemy, or, Wet and weary.</title>
+                  <author>L. P. (Laurence Price), fl. 1625-1680?</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts)  </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Vere at the Signe of the Angel without New-gate,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed at end: L. P.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Imperfect: broadside is cropped with slight loss of print.</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:184716:1"/>
+            <pb facs="tcp:184716:2"/>
+            <head>Joy after Sorrow, Being the Sea-mans return from <hi>Jamaica:</hi> Or, the lovely Laſſes late Lamen<g ref="char:EOLhyphen"/>tation for the long abſence of her deareſt beloved Friend
+<l>A Voyage to Jamaica he pretends:</l>
+               <l>But at his comming home makes ber amends.</l> To an excellent new tune, called, my Love is gone to Bohemy, or, wet and weary.</head>
+            <p>
+               <figure>
+                  <figDesc>woodcut of a man</figDesc>
+               </figure>
+            </p>
+            <lg>
+               <l>THere was a Maid as I heard tell</l>
+               <l>which fell in deſperation,</l>
+               <l>She lov'd a Young-man paſſing well,</l>
+               <l>which brought her in vexation:</l>
+               <l>The Young-man had the Maid beguil'd,</l>
+               <l>the matter ſo was carried,</l>
+               <l>For he had gotten her with Child</l>
+               <l>before that they were married</l>
+               <l>
+                  <hi>Which caus'd this Maid to make great moan,</hi>
+               </l>
+               <l>
+                  <hi>and often times to ſpeak ſo,</hi>
+               </l>
+               <l>
+                  <hi>My belly is up and my heart is down,</hi>
+               </l>
+               <l>
+                  <hi>and my Love is gone to Jamaica.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>He was my joy and hearts delight,</l>
+               <l>and well my mind contented,</l>
+               <l>But now hée's gone out of my ſight,</l>
+               <l>I ſorely am tormented:</l>
+               <l>Whilſt he with me was living here,</l>
+               <l>heaven knows I lov'd him dearely,</l>
+               <l>But now my heart will burſt with care,</l>
+               <l>it touch<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th me ſo nearly.</l>
+               <l>
+                  <hi>I ſigh I ſob<g ref="char:punc">▪</g> and I make great moan,</hi>
+               </l>
+               <l>
+                  <hi>the cauſe wherefore I ſpeak ſo. &amp;c.</hi>
+               </l>
+            </lg>
+            <p>
+               <figure>
+                  <figDesc>woodcut of a woman</figDesc>
+               </figure>
+            </p>
+            <lg>
+               <l>My Love was wondrous kind and frée,</l>
+               <l>when as firſt he came a woing,</l>
+               <l>And many good guifts he gave to me,</l>
+               <l>becauſe he would be doing:</l>
+               <l>My Love gave me a Beaver Hat,</l>
+               <l>methought it was br<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ve and bonuy,</l>
+               <l>And a gallant Love-fancy to weare in it,</l>
+               <l>which coſt five pound in mony:</l>
+               <l>
+                  <hi>but now I weep and make great moan,</hi>
+               </l>
+               <l>
+                  <hi>the reaſon why I ſpeak ſo, &amp;c,</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>My Love gave me a Silken Gown,</l>
+               <l>with rich and coſtly Laces,</l>
+               <l>Ther's not a br<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ver in the Town,</l>
+               <l>it all the reſt ſurpaſſes:</l>
+               <l>My Love gave me a gay gold Ring,</l>
+               <l>and Bracelets made of Amber,</l>
+               <l>He alſo gave me a better thing,</l>
+               <l>when he had me in his Chamber.</l>
+               <l>
+                  <hi>I ſigh, I ſob, and I make great moan,</hi>
+               </l>
+               <l>
+                  <hi>the reaſon why I ſpeak ſo,</hi>
+               </l>
+               <l>
+                  <hi>My belly is up and my heart is down,</hi>
+               </l>
+               <l>
+                  <hi>for my Love is gone to Jamaica.</hi>
+               </l>
+            </lg>
+            <div type="part">
+               <pb facs="tcp:184716:2" rendition="simple:additions"/>
+               <p>
+                  <figure>
+                     <figDesc>woodcut of a man, sword drawn</figDesc>
+                  </figure>
+               </p>
+               <lg>
+                  <l>MY love gave me a Holand ſmock</l>
+                  <l>and bid me for to weare it</l>
+                  <l>One night 'twixt ten &amp; eleven a clock</l>
+                  <l>I'm ſure he did not teare it:</l>
+                  <l>My Love gave me a Feather bed,</l>
+                  <l>to lye on when I was weary</l>
+                  <l>On which he had my Maiden-head</l>
+                  <l>when he had made me merry</l>
+                  <l>
+                     <hi>but ſince dame fortune ſhe doth frown</hi>
+                  </l>
+                  <l>
+                     <hi>this makes me ſigh and ſpeake ſo,</hi>
+                  </l>
+                  <l>
+                     <hi>My belly is up and my heart is down</hi>
+                  </l>
+                  <l>
+                     <hi>and my Love is gon to Jamaica.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>And ſince that time I am poſſeſt,</l>
+                  <l>with many griefs I tell yée</l>
+                  <l>In head, in ſide in back and breaſt,</l>
+                  <l>but chiefly in my belly:</l>
+                  <l>Oh that my love were here againe,</l>
+                  <l>I'm ſure he would befriend me,</l>
+                  <l>And uſe a meanes to cure my pain,</l>
+                  <l>and take a courſe to mend me.</l>
+                  <l>
+                     <hi>I ſigh, I ſob, and I make great moan,</hi>
+                  </l>
+                  <l>
+                     <hi>the reaſon why I doe ſo, &amp;c.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>If I had <hi>Icarus</hi> wings to flye,</l>
+                  <l>I doe ſo greatly mind him,</l>
+                  <l>Then I would ſoone beyond the Seas,</l>
+                  <l>and ſéeke till I could finde him,</l>
+                  <l>If that he were in France or Spain.</l>
+                  <l>or elſ in High Spaniclo.</l>
+                  <l>I'de ſurely méet with him again,</l>
+                  <l>ſo cloſely would I follow.</l>
+                  <l>
+                     <hi>The Indies and the Wilderneſſe,</hi>
+                  </l>
+                  <l>
+                     <hi>and hollow caves Ide ſeek to.</hi>
+                  </l>
+                  <l>
+                     <hi>And every place both more and leſſe,</hi>
+                  </l>
+                  <l>
+                     <hi>bel<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nging to Jamaica.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Thus many a woful day and night</l>
+                  <l>the Damſel lay lamenting,</l>
+                  <l>Before her love appear'd in ſight</l>
+                  <l>to yéeld her hearts contenting:</l>
+                  <l>But mark what hapned at the laſt</l>
+                  <l>when ſhe ſo long had mourned,</l>
+                  <l>The bonny Lad that ſhe lov'd beſt,</l>
+                  <l>ſafely from Sea returned.</l>
+                  <l>
+                     <hi>But when ſhe heard her true-love ſpeak</hi>
+                  </l>
+                  <l>
+                     <hi>ſhe knew him by his tongue Sir,</hi>
+                  </l>
+                  <l>
+                     <hi>Her heart did in her belly leap,</hi>
+                  </l>
+                  <l>
+                     <hi>and about his neck ſhe flung Sir.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Good Lord what kiſſing there was then;</l>
+                  <l>with friendly kind embraces,</l>
+                  <l>Vntill the joyfull tears of them</l>
+                  <l>ran down each others faces:</l>
+                  <l>The very night when this was done</l>
+                  <l>as is for certain ſpoken,</l>
+                  <l>She was delivered of a Son,</l>
+                  <l>a fair and goodly token,</l>
+                  <l>
+                     <hi>Whereby ſhe alters ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>on her tune,</hi>
+                  </l>
+                  <l>
+                     <hi>her fancy made her ſpeak ſo,</hi>
+                  </l>
+                  <l>
+                     <hi>My heart is up and my belly is down,</hi>
+                  </l>
+                  <l>
+                     <hi>and my Love is come from Jamaica.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Soon after that the Seaman bold,</l>
+                  <l>he having of mony plenty,</l>
+                  <l>Caſt in her lap ten pound in gold.</l>
+                  <l>and halfe crown pieces twenty:</l>
+                  <l>And ſince that time they married are,</l>
+                  <l>whereby their joyes are double,</l>
+                  <l>And now ſhe ſings with a merry chéer,</l>
+                  <l>being frée from care and trouble.</l>
+                  <l>
+                     <hi>My ſorrows all are paſt and gone,</hi>
+                  </l>
+                  <l>
+                     <hi>which makes me ſing and ſpeak ſo,</hi>
+                  </l>
+                  <l>
+                     <hi>My hart is up and my belly is down,</hi>
+                  </l>
+                  <l>
+                     <hi>and Love is come from Jamaica.</hi>
+                  </l>
+               </lg>
+               <closer>
+                  <signed>L.P.</signed>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for Tho. Vere, at the ſigne of the Angel, without New-gate.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
